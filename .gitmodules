@@ -1,0 +1,7 @@
+[submodule "PowerShell"]
+	path = PowerShell
+	url = https://github.com/Metekillot/PowerShell
+	branch = thread-refactor
+[submodule "ThreadJob"]
+	path = ThreadJob
+	url = https://github.com/Metekillot/ThreadJob

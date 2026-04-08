@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Microsoft.PowerShell.RunspaceComposer</RootNamespace>
+    <AssemblyName>Microsoft.PowerShell.RunspaceComposer</AssemblyName>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <TargetFramework>net11.0</TargetFramework>
+    <LangVersion>preview</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../../PowerShell/src/System.Management.Automation/System.Management.Automation.csproj" />
+  </ItemGroup>
+
+
+</Project>
